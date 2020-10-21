@@ -1,4 +1,4 @@
-"# job2salary-pedict" 
+# job2salary-pedict
 
 ## 数据集：抓取了4512个职位的能力描述，薪资
 Step1，数据加载
